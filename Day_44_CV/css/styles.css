@@ -1,0 +1,153 @@
+.bio {
+    width: 30%;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather, serif;
+    color: #40514E;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-text {
+    width: 40%;
+    margin: 40px auto;
+}
+
+.contact-button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 5px;
+   color: #FFFFFF;
+   font-family: Montserrat, sans-serif;
+   font-size: 16px;
+   font-weight: 100;
+    padding: 10px;
+   background-color: rgb(15,163,169);
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+    margin-top: 25px;
+}
+
+.contact-button:hover {
+    background-color: #77eeee;
+    color: #FFFFFF;
+}
+
+.copyright {
+    color: #EAF6F6;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+
+h1 {
+    color: #66BFBF;
+    font-family: Sacramento, cursive;
+    font-size: 5.625rem; /* 100% -> 16px & 1rem -> 16px */
+    margin: 50px auto 0 auto;
+
+
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: Montserrat, sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3 {
+    font-family: Montserrat, sans-serif;
+    color: #11999E;
+}
+
+hr {
+    color: #EAF6F6;
+    border-style: dotted none none;
+    border-width: 6px;
+    height: 0;
+    width: 4%;
+    margin: 100px auto;
+    clear: right;
+}
+
+.footer-link {
+    color: #11999E;
+    margin-right: 30px;
+    font-family: Montserrat, sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 2;
+}
+
+
+.top_container {
+    background-color: #eaf6f6;
+    padding-top: 100px;
+    position: relative;
+
+}
+
+.upper-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
